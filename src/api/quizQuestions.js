@@ -34,7 +34,7 @@ var quizQuestions = [
       ]
   },
   {
-      question: "Which of these racing franchises would you prefer to play a game from?",
+      question: "What is your favorite color?",
       answers: [
           {
               type: "Google",
@@ -51,7 +51,7 @@ var quizQuestions = [
       ]
   },
   {
-      question: "Which of these games do you think is best?",
+      question: "What is your favorite color?",
       answers: [
           {
               type: "Google",
@@ -68,7 +68,7 @@ var quizQuestions = [
       ]
   },
   {
-      question: "What console would you prefer to own?",
+      question: "What is your favorite color?",
       answers: [
           {
               type: "Google",
@@ -87,3 +87,4 @@ var quizQuestions = [
 ];
 
 export default quizQuestions;
+
